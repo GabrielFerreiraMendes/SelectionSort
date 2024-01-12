@@ -1,5 +1,5 @@
 ## Algoritmo de ordenação Selection Sort
-Projeto desenvolvido, originalmente em C++, para projeto academico da disciplina estrutura de dados.
+Algoritmo desenvolvido, originalmente em C++, para projeto academico da disciplina estrutura de dados.
 
 ## Funcionamento do Selection Sort
 
